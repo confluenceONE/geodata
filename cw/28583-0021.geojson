@@ -1,0 +1,459 @@
+{
+  "type": "FeatureCollection",
+  "name": "Project Number: 28583/0021",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "Geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8016744749621,
+          151.135429814458
+        ]
+      },
+      "Properties": {
+        "FormId": "484",
+        "Form Name": "Site Investigation – Sewer Network Assets",
+        "Submitted On": "17/08/2020 03:14 PM",
+        "Form Version": "16",
+        "Submitted By": "anthony.beckenham@confluencewater.com.au",
+        "Submission Id": "077d7ac9-56b7-47c4-8333-a031517f5d61",
+        "Sequence Number": "147",
+        "Project Number:": "28583/021",
+        "Project Name:": "WWS Lane Cove Source Control",
+        "Work Order Number:": "1",
+        "Work Lot Name:": "1",
+        "Scope:": "Remove existing flat gate desilt ERS install of wastop inline check",
+        "Address:": "Cressy & Magdala Road North Ryde",
+        "LocationMethod": "Acquired",
+        "Lat": -33.8016744749621,
+        "Lon": 151.135429814458,
+        "Assessed By:": "Tony Beckenham,  Peter Abunucerah",
+        "Date": "13/08/2020",
+        "Asset ID:": "1284736",
+        "Asset Description": "ERS",
+        "Depth (chamber)": null,
+        "Depth from surface": null,
+        "Diameter": "300",
+        "Flow level": null,
+        "Flow Rate": null,
+        "Material": null,
+        "Location1": "7",
+        "Please Specify Other": null,
+        "Site Access (select all that apply)": "4",
+        "Please Specify Excavator Size": null,
+        "Flow Control": null,
+        "Shoring": null,
+        "Surface Reinstatement": null,
+        "Please Specify Other1": null,
+        "Structures that may be affected (select all that apply)": null,
+        "Services (Overhead) - Select all that apply (if any)": "3,1",
+        "Please Specify Other2": null,
+        "Services (Underground) - Select all that apply (if any)": "2,4,3",
+        "Please Specify Other3": null,
+        "Customer Constraints - Select all that apply": "1",
+        "Please Specify Other4": null,
+        "Environmental Constraints - Select all that apply": "5",
+        "Please Specify Other5": null,
+        "Traffic Control - Select all that will be required": null,
+        "Please estimate the number of traffic control crew members required:": null,
+        "ERS Located?": "1",
+        "ERS Shape": "2",
+        "ERS Cracked?": "0",
+        "ERS Lifted?": "0",
+        "ERS Obstructions?": "0",
+        "Depth": null,
+        "ERS Discharge has been located": "0",
+        "Condition of the ERS discharge": null,
+        "Any obstructions to the ERS Discharge": null,
+        "Depth1": null,
+        "Manhole Located?": "0",
+        "Manhole Shape": null,
+        "Manhole Cracked?": "0",
+        "Manhole Lifted?": "0",
+        "Manhole Obstructions?": "0",
+        "Depth2": null,
+        "Manhole Located?1": "0",
+        "Manhole Shape1": null,
+        "Manhole Cracked?1": "0",
+        "Manhole Lifted?1": "0",
+        "Manhole Obstructions?1": "0",
+        "Depth3": null,
+        "Any Additional Notes": "MH is located in close proximity to park/playground. Vehicle parking on cressy road. Minor works involving remove flap valve install inline check valve and de-silt works. Only foot disturbance.",
+        "Name": "Tony Beckenham",
+        "Signature": "31_077d7ac9-56b7-47c4-8333-a031517f5d61_45f0e0f0-2a87-4cc8-a619-05edf7d0d0a4.jpg",
+        "Date1": "13/08/2020",
+        "Please submit to form at this point. The restoration agreement can be completed at a later stage": "",
+        "FileName": "CON_WWS Lane Cove Source Control _28583_021_Site Investigation – Sewer Network Assets_13_08_2020_147.xlsx",
+        "ExcelSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-08/excel/CON_WWS Lane Cove Source Control _28583_021_Site Investigation – Sewer Network Assets_13_08_2020_147.xlsx",
+        "WordSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-08/word/CON_WWS Lane Cove Source Control _28583_021_Site Investigation – Sewer Network Assets_13_08_2020_147.docx",
+        "FormRevId": "484-16",
+        "DataSheets": [
+          {
+            "SheetName": "Pics",
+            "DataRows": [
+              {
+                "Submission Id": "077d7ac9-56b7-47c4-8333-a031517f5d61",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_077d7ac9-56b7-47c4-8333-a031517f5d61_b1ae7819-75ed-43f6-995f-4f6343c14dcb.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-08/image/31_077d7ac9-56b7-47c4-8333-a031517f5d61_b1ae7819-75ed-43f6-995f-4f6343c14dcb.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "077d7ac9-56b7-47c4-8333-a031517f5d61",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_077d7ac9-56b7-47c4-8333-a031517f5d61_60e0bd19-71de-479c-81c0-824815ac9835.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-08/image/31_077d7ac9-56b7-47c4-8333-a031517f5d61_60e0bd19-71de-479c-81c0-824815ac9835.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "077d7ac9-56b7-47c4-8333-a031517f5d61",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_077d7ac9-56b7-47c4-8333-a031517f5d61_1f8f9989-aead-49e6-9906-90dd4ad3cdc2.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-08/image/31_077d7ac9-56b7-47c4-8333-a031517f5d61_1f8f9989-aead-49e6-9906-90dd4ad3cdc2.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "077d7ac9-56b7-47c4-8333-a031517f5d61",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_077d7ac9-56b7-47c4-8333-a031517f5d61_2a373f4c-90f6-4f46-ab26-358dc1e10f91.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-08/image/31_077d7ac9-56b7-47c4-8333-a031517f5d61_2a373f4c-90f6-4f46-ab26-358dc1e10f91.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "077d7ac9-56b7-47c4-8333-a031517f5d61",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_077d7ac9-56b7-47c4-8333-a031517f5d61_b61d4ad8-a414-49db-b316-3381c1dc636b.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-08/image/31_077d7ac9-56b7-47c4-8333-a031517f5d61_b61d4ad8-a414-49db-b316-3381c1dc636b.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "077d7ac9-56b7-47c4-8333-a031517f5d61",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_077d7ac9-56b7-47c4-8333-a031517f5d61_0f656e2b-d529-4b87-8472-51b863ca9ba7.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-08/image/31_077d7ac9-56b7-47c4-8333-a031517f5d61_0f656e2b-d529-4b87-8472-51b863ca9ba7.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "077d7ac9-56b7-47c4-8333-a031517f5d61",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_077d7ac9-56b7-47c4-8333-a031517f5d61_add142da-b0ef-42c7-a4a7-2ec79dd03d59.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-08/image/31_077d7ac9-56b7-47c4-8333-a031517f5d61_add142da-b0ef-42c7-a4a7-2ec79dd03d59.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "077d7ac9-56b7-47c4-8333-a031517f5d61",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_077d7ac9-56b7-47c4-8333-a031517f5d61_c9804bdd-fb53-4e52-8b11-99635218f93c.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-08/image/31_077d7ac9-56b7-47c4-8333-a031517f5d61_c9804bdd-fb53-4e52-8b11-99635218f93c.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "077d7ac9-56b7-47c4-8333-a031517f5d61",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_077d7ac9-56b7-47c4-8333-a031517f5d61_3ac29902-9f57-49dc-ae21-89e8294b4fe1.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-08/image/31_077d7ac9-56b7-47c4-8333-a031517f5d61_3ac29902-9f57-49dc-ae21-89e8294b4fe1.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "077d7ac9-56b7-47c4-8333-a031517f5d61",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_077d7ac9-56b7-47c4-8333-a031517f5d61_bf9b3b11-fc6e-47ba-a849-f91aa6e0d07b.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-08/image/31_077d7ac9-56b7-47c4-8333-a031517f5d61_bf9b3b11-fc6e-47ba-a849-f91aa6e0d07b.jpg",
+                "Comment": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "Geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8089754,
+          151.0944035
+        ]
+      },
+      "Properties": {
+        "FormId": "484",
+        "Form Name": "Site Investigation – Sewer Network Assets",
+        "Submitted On": "31/08/2020 09:25 AM",
+        "Form Version": "18",
+        "Submitted By": "vijay.premkumar@confluencewater.com.au",
+        "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+        "Sequence Number": "169",
+        "Project Number:": "28385/021",
+        "Project Name:": "Package 14 - Internal Surcharges West Ryde",
+        "Work Order Number:": null,
+        "Work Lot Name:": null,
+        "Scope:": "Exhume and Relay DN300",
+        "Address:": "Herbert Street, West Ryde",
+        "LocationMethod": "Acquired",
+        "Lat": -33.8089754,
+        "Lon": 151.0944035,
+        "Assessed By:": null,
+        "Date": "31/08/2020",
+        "Asset ID:": null,
+        "Asset Description": null,
+        "Depth (chamber)": null,
+        "Depth from surface": null,
+        "Diameter": null,
+        "Flow level": null,
+        "Flow Rate": null,
+        "Material": null,
+        "Location1": "4",
+        "Please Specify Other": null,
+        "Site Access (select all that apply)": "1,3",
+        "Please Specify Excavator Size": "13",
+        "Flow Control": null,
+        "Shoring": null,
+        "Surface Reinstatement": "1,3,5",
+        "Please Specify Other1": null,
+        "Structures that may be affected (select all that apply)": null,
+        "Services (Overhead) - Select all that apply (if any)": "1,3",
+        "Please Specify Other2": null,
+        "Services (Underground) - Select all that apply (if any)": "4,3",
+        "Please Specify Other3": null,
+        "Customer Constraints - Select all that apply": "6",
+        "Please Specify Other4": "Trench will be too close to Front walls for properties 19 and 23.",
+        "Environmental Constraints - Select all that apply": "5",
+        "Please Specify Other5": null,
+        "Traffic Control - Select all that will be required": "1,2,6",
+        "Please estimate the number of traffic control crew members required:": null,
+        "ERS Located?": null,
+        "ERS Shape": null,
+        "ERS Cracked?": null,
+        "ERS Lifted?": null,
+        "ERS Obstructions?": null,
+        "Depth": null,
+        "ERS Discharge has been located": null,
+        "Condition of the ERS discharge": null,
+        "Any obstructions to the ERS Discharge": null,
+        "Depth1": null,
+        "Manhole Located?": "1",
+        "Manhole Shape": "2",
+        "Manhole Cracked?": "0",
+        "Manhole Lifted?": "0",
+        "Manhole Obstructions?": "0",
+        "Depth2": null,
+        "Manhole Located?1": "1",
+        "Manhole Shape1": "2",
+        "Manhole Cracked?1": "0",
+        "Manhole Lifted?1": "0",
+        "Manhole Obstructions?1": "0",
+        "Depth3": null,
+        "Any Additional Notes": "The main to be exhumed runs parallel to existing water main and front walls. There are over head services throughout the alignment. There will be other service crossings such as Telstra as the alignment move towards the road.\nMust look into alternative designs and possibly move alignment to the road.",
+        "Name": "Vijay Premkumar",
+        "Signature": null,
+        "Date1": "31/08/2020",
+        "Please submit the form at this point": "",
+        "FileName": "CON_Package 14 - Internal Surcharges West Ryde_28385_021_Site Investigation – Sewer Network Assets_31_08_2020_169.xlsx",
+        "ExcelSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/excel/CON_Package 14 - Internal Surcharges West Ryde_28385_021_Site Investigation – Sewer Network Assets_31_08_2020_169.xlsx",
+        "WordSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/word/CON_Package 14 - Internal Surcharges West Ryde_28385_021_Site Investigation – Sewer Network Assets_31_08_2020_169.docx",
+        "FormRevId": "484-18",
+        "DataSheets": [
+          {
+            "SheetName": "Pics",
+            "DataRows": [
+              {
+                "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_d11b590c-a11e-43a8-8b57-a47fcde77e93_c510b491-88fd-4323-a063-bc036bda6c07.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_d11b590c-a11e-43a8-8b57-a47fcde77e93_c510b491-88fd-4323-a063-bc036bda6c07.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_d11b590c-a11e-43a8-8b57-a47fcde77e93_a05c27b2-027e-4c54-ac3d-0b6774ae8ed0.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_d11b590c-a11e-43a8-8b57-a47fcde77e93_a05c27b2-027e-4c54-ac3d-0b6774ae8ed0.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_d11b590c-a11e-43a8-8b57-a47fcde77e93_0861e21a-dafb-4aea-beeb-f200d087af19.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_d11b590c-a11e-43a8-8b57-a47fcde77e93_0861e21a-dafb-4aea-beeb-f200d087af19.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_d11b590c-a11e-43a8-8b57-a47fcde77e93_7a27f6fc-e5e2-43b4-afca-f5767f8b6280.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_d11b590c-a11e-43a8-8b57-a47fcde77e93_7a27f6fc-e5e2-43b4-afca-f5767f8b6280.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_d11b590c-a11e-43a8-8b57-a47fcde77e93_6453faa0-4471-42ee-b4f0-4cc72d018f3c.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_d11b590c-a11e-43a8-8b57-a47fcde77e93_6453faa0-4471-42ee-b4f0-4cc72d018f3c.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_d11b590c-a11e-43a8-8b57-a47fcde77e93_ddc09762-df5a-420c-9d73-53637b7c8c5b.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_d11b590c-a11e-43a8-8b57-a47fcde77e93_ddc09762-df5a-420c-9d73-53637b7c8c5b.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_d11b590c-a11e-43a8-8b57-a47fcde77e93_a268e848-de48-4359-b583-37e3bb2c98a2.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_d11b590c-a11e-43a8-8b57-a47fcde77e93_a268e848-de48-4359-b583-37e3bb2c98a2.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_d11b590c-a11e-43a8-8b57-a47fcde77e93_4681ffb7-689e-40b0-887e-80d6b889cfa4.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_d11b590c-a11e-43a8-8b57-a47fcde77e93_4681ffb7-689e-40b0-887e-80d6b889cfa4.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_d11b590c-a11e-43a8-8b57-a47fcde77e93_99c3d647-0a6e-42c6-b006-5a2ee0d0da2b.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_d11b590c-a11e-43a8-8b57-a47fcde77e93_99c3d647-0a6e-42c6-b006-5a2ee0d0da2b.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_d11b590c-a11e-43a8-8b57-a47fcde77e93_d2012e91-a5d7-4b15-8bd9-bb5ce0e9d350.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_d11b590c-a11e-43a8-8b57-a47fcde77e93_d2012e91-a5d7-4b15-8bd9-bb5ce0e9d350.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_d11b590c-a11e-43a8-8b57-a47fcde77e93_74caf746-dda5-405b-895b-5bcc1a60a467.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_d11b590c-a11e-43a8-8b57-a47fcde77e93_74caf746-dda5-405b-895b-5bcc1a60a467.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_d11b590c-a11e-43a8-8b57-a47fcde77e93_4200867a-fb7b-4dbf-81de-4f1cf54fd3f9.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_d11b590c-a11e-43a8-8b57-a47fcde77e93_4200867a-fb7b-4dbf-81de-4f1cf54fd3f9.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "d11b590c-a11e-43a8-8b57-a47fcde77e93",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_d11b590c-a11e-43a8-8b57-a47fcde77e93_8f0b1fa0-057d-4b61-9f30-f89ab0989c0f.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_d11b590c-a11e-43a8-8b57-a47fcde77e93_8f0b1fa0-057d-4b61-9f30-f89ab0989c0f.jpg",
+                "Comment": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "Geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8065368,
+          151.0964137
+        ]
+      },
+      "Properties": {
+        "FormId": "484",
+        "Form Name": "Site Investigation – Sewer Network Assets",
+        "Submitted On": "31/08/2020 09:44 AM",
+        "Form Version": "18",
+        "Submitted By": "vijay.premkumar@confluencewater.com.au",
+        "Submission Id": "f5a386f6-2f82-40ab-9ed9-85d42707ec68",
+        "Sequence Number": "171",
+        "Project Number:": "28385/021",
+        "Project Name:": "Package 14 Internal Surcharge -West Ryde",
+        "Work Order Number:": null,
+        "Work Lot Name:": null,
+        "Scope:": "Remove existing flap valve and install inline check valve",
+        "Address:": "Parkes Street CNR Wattle Lane",
+        "LocationMethod": "Acquired",
+        "Lat": -33.8065368,
+        "Lon": 151.0964137,
+        "Assessed By:": null,
+        "Date": "31/08/2020",
+        "Asset ID:": "1380448",
+        "Asset Description": null,
+        "Depth (chamber)": null,
+        "Depth from surface": null,
+        "Diameter": null,
+        "Flow level": null,
+        "Flow Rate": null,
+        "Material": null,
+        "Location1": "3",
+        "Please Specify Other": null,
+        "Site Access (select all that apply)": "3",
+        "Please Specify Excavator Size": null,
+        "Flow Control": null,
+        "Shoring": null,
+        "Surface Reinstatement": "3",
+        "Please Specify Other1": null,
+        "Structures that may be affected (select all that apply)": null,
+        "Services (Overhead) - Select all that apply (if any)": "1",
+        "Please Specify Other2": null,
+        "Services (Underground) - Select all that apply (if any)": null,
+        "Please Specify Other3": null,
+        "Customer Constraints - Select all that apply": null,
+        "Please Specify Other4": null,
+        "Environmental Constraints - Select all that apply": null,
+        "Please Specify Other5": null,
+        "Traffic Control - Select all that will be required": "7",
+        "Please estimate the number of traffic control crew members required:": null,
+        "ERS Located?": "1",
+        "ERS Shape": null,
+        "ERS Cracked?": null,
+        "ERS Lifted?": null,
+        "ERS Obstructions?": null,
+        "Depth": null,
+        "ERS Discharge has been located": null,
+        "Condition of the ERS discharge": null,
+        "Any obstructions to the ERS Discharge": null,
+        "Depth1": null,
+        "Manhole Located?": "1",
+        "Manhole Shape": "2",
+        "Manhole Cracked?": "0",
+        "Manhole Lifted?": "0",
+        "Manhole Obstructions?": "0",
+        "Depth2": null,
+        "Manhole Located?1": "1",
+        "Manhole Shape1": null,
+        "Manhole Cracked?1": "0",
+        "Manhole Lifted?1": "0",
+        "Manhole Obstructions?1": null,
+        "Depth3": null,
+        "Any Additional Notes": "Wattle lane may be temporarily obstructed for duration of works. The lane does not seem to be busy.",
+        "Name": null,
+        "Signature": null,
+        "Date1": null,
+        "Please submit the form at this point": "",
+        "FileName": "CON_Package 14 Internal Surcharge -West Ryde_28385_021_Site Investigation – Sewer Network Assets_31_08_2020_171.xlsx",
+        "ExcelSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/excel/CON_Package 14 Internal Surcharge -West Ryde_28385_021_Site Investigation – Sewer Network Assets_31_08_2020_171.xlsx",
+        "WordSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/word/CON_Package 14 Internal Surcharge -West Ryde_28385_021_Site Investigation – Sewer Network Assets_31_08_2020_171.docx",
+        "FormRevId": "484-18",
+        "DataSheets": [
+          {
+            "SheetName": "Pics",
+            "DataRows": [
+              {
+                "Submission Id": "f5a386f6-2f82-40ab-9ed9-85d42707ec68",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_f5a386f6-2f82-40ab-9ed9-85d42707ec68_f720ae55-ddf8-4b28-b2ff-cb3e50aa940b.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_f5a386f6-2f82-40ab-9ed9-85d42707ec68_f720ae55-ddf8-4b28-b2ff-cb3e50aa940b.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "f5a386f6-2f82-40ab-9ed9-85d42707ec68",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_f5a386f6-2f82-40ab-9ed9-85d42707ec68_3d926737-7b16-4ab0-a152-b66bed638cb8.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_f5a386f6-2f82-40ab-9ed9-85d42707ec68_3d926737-7b16-4ab0-a152-b66bed638cb8.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "f5a386f6-2f82-40ab-9ed9-85d42707ec68",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_f5a386f6-2f82-40ab-9ed9-85d42707ec68_93a0343d-7164-456e-b2e2-6bb5009a3579.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_f5a386f6-2f82-40ab-9ed9-85d42707ec68_93a0343d-7164-456e-b2e2-6bb5009a3579.jpg",
+                "Comment": ""
+              },
+              {
+                "Submission Id": "f5a386f6-2f82-40ab-9ed9-85d42707ec68",
+                "Photo": "https://omni.jacobs.com.au/Reports/ReportAsset?assetKey=31_f5a386f6-2f82-40ab-9ed9-85d42707ec68_a19815a3-afc6-47bb-af7f-f946257a105a.jpg",
+                "PhotoSPUrl": "https://infradsaprandi.sharepoint.com/sites/ConfluenceWater/Omni/_OmniBlob/2020-09/image/31_f5a386f6-2f82-40ab-9ed9-85d42707ec68_a19815a3-afc6-47bb-af7f-f946257a105a.jpg",
+                "Comment": ""
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
