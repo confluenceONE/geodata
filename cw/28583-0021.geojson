@@ -10,14 +10,14 @@
   "features": [
     {
       "type": "Feature",
-      "Geometry": {
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -33.8016744749621,
           151.135429814458
         ]
       },
-      "Properties": {
+      "properties": {
         "FormId": "484",
         "Form Name": "Site Investigation – Sewer Network Assets",
         "Submitted On": "17/08/2020 03:14 PM",
@@ -165,14 +165,14 @@
     },
     {
       "type": "Feature",
-      "Geometry": {
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -33.8089754,
           151.0944035
         ]
       },
-      "Properties": {
+      "properties": {
         "FormId": "484",
         "Form Name": "Site Investigation – Sewer Network Assets",
         "Submitted On": "31/08/2020 09:25 AM",
@@ -338,14 +338,14 @@
     },
     {
       "type": "Feature",
-      "Geometry": {
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -33.8065368,
           151.0964137
         ]
       },
-      "Properties": {
+      "properties": {
         "FormId": "484",
         "Form Name": "Site Investigation – Sewer Network Assets",
         "Submitted On": "31/08/2020 09:44 AM",
